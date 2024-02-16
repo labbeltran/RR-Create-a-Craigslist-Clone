@@ -1,3 +1,5 @@
+import React, { useState } from 'react'
+
 function Gallery(){
     return(
       <h1>Gallery</h1>
