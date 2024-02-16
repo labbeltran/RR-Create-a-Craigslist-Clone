@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-const craigPost = require('./postings.js')
+const craigPost = require('../postings.js')
 
 function Posting(){
 let postList = craigPost.postings.map((data, i)=>{
